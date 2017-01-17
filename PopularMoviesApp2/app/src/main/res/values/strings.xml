@@ -1,0 +1,10 @@
+<resources>
+    <!-- ADD YOUR MOVIE DB API KEY -->
+    <string name="api_key"></string>
+    <string name="app_name">PopularMoviesApp</string>
+    <string name="error_message_network">There is not network available, check it!</string>
+    <string name="error_message_default">Something goes wrong, back and try again.</string>
+    <string name="release_date">Release date: </string>
+    <string name="vote_average">User rate: </string>
+    <string name="plot_synopsis">Synopsis: </string>
+</resources>
